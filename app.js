@@ -1,7 +1,7 @@
 //app.js
 App({
   onLaunch: function () {
-    const host = "https://penti-api.wogengapp.cn/"
+    const host = "https://airfree.digitalvio.xyz/"
     console.log('processing login')
 
     // 展示本地存储能力
